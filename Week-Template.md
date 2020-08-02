@@ -1,4 +1,4 @@
-# WEEK X
+# WEEK X [Mon DD - Mon DD]
 
 ## Topics
 
@@ -19,3 +19,9 @@
 ### [Saturday](#)
 
 ### [Sunday](#)
+
+## Announcements
+
+- [announcement-1](#)
+- [announcement-2](#)
+- [announcement-3](#)

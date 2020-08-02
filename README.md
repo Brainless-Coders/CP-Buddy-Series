@@ -14,20 +14,38 @@ Not only that be the part of the community where you can discuss anything about 
 
 ## Our week-wise plan:
 
-| **Week** | **Topics**            |
-| -------- | --------------------- |
-| Week 1   | Asymptotic Analysis   |
-|          | Arrays                |
-|          | Strings               |
-| Week 2   | Sorting and searching |
-|          | Recursion             |
-| Week 3   | Linked List           |
-|          | Doubly Linked List    |
-| Week 4   | Stacks                |
-|          | Queues                |
-|          | Doubly-ended queue    |
-| Week 5   | Trees                 |
-|          | Heaps                 |
-| Week 6   | General Mathematics   |
-|          | Number Theory         |
-|          | Bitwise Operations    |
+| **Week** | **Topics**                     |
+| -------- | ------------------------------ |
+| Week 1   | Asymptotic Analysis            |
+|          | Arrays                         |
+|          | Strings                        |
+| Week 2   | Sorting and searching          |
+|          | Recursion                      |
+| Week 3   | Linked List                    |
+|          | Doubly Linked List             |
+| Week 4   | Stacks                         |
+|          | Queues                         |
+|          | Doubly-ended queue             |
+| Week 5   | Trees                          |
+|          | Heaps                          |
+| Week 6   | General Mathematics            |
+|          | Number Theory                  |
+|          | Bitwise Operations             |
+| Week 7   | Divide and Conquer             |
+|          | Binary Search Related Problems |
+| Week 8   | Backtracking                   |
+|          | Greedy Algorithms              |
+| Week 9   | Graphs and its Traversal       |
+|          | Graph Related Algorithms       |
+| Week 10  | Basic Dynamic Programming      |
+| Week 11  | Advanced Dynamic Programming   |
+| Week 12  | Segement Trees                 |
+|          | Binary Index Tree              |
+| Week 13  | Disjoint Sets                  |
+|          | String Related ALgorithms      |
+|          | Bitwise Operations             |
+| Week 14  | Miscellaneous Topics           |
+|          | Problem Solving                |
+|          | Tries                          |
+
+[Doc file of week wise plan](https://docs.google.com/document/d/1MPwoRmqIs0GA_z9xL8pTyc2lhOHRYwWY_BNPAxKhSW8/edit)
