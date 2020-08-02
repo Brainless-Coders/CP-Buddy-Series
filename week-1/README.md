@@ -16,9 +16,9 @@
 
 ### [Wednesday](#)
 
-### [Saturday](#)
+### [Friday](#)
 
-### [Sunday](#)
+### [Saturday](#)
 
 ## Announcements
 
