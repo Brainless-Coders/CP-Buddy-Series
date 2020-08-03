@@ -12,6 +12,8 @@ Then we at Brainless Coders bring to you our new #CPBuddySeries. This will not b
 We will #practice and practice daily.
 Not only that be the part of the community where you can discuss anything about #competitiveprogramming (of course not the answer of a live contest 😉) and this all craziness will go on for 3 months.
 
+<img align="centre" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+
 ## Our week-wise plan:
 
 | **Week** | **Topics**                     |
