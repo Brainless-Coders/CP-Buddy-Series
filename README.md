@@ -51,3 +51,5 @@ Not only that be the part of the community where you can discuss anything about 
 |          | Tries                          |
 
 [Doc file of week wise plan](https://docs.google.com/document/d/1MPwoRmqIs0GA_z9xL8pTyc2lhOHRYwWY_BNPAxKhSW8/edit)
+
+**Feel free to improve this repo by creating PR 😉**
