@@ -72,9 +72,8 @@
 * Quiz : https://forms.gle/a9idNxYK2mS7KnS5A
 * Practice contest #1: https://www.hackerrank.com/cpbuddyseries-week1-contest1
 
-### [Friday](#)
-
-### [Saturday](#)
+### Sunday
+* Practice contest #2: https://www.hackerrank.com/cpbuddyseries-week1-practicecontest2
 
 ## Announcements
 
