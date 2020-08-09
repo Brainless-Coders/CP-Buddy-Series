@@ -1,7 +1,7 @@
 // Analysis
 
 // Time : Linear => O(N), since we are traversing the complete array only once
-// Space: Constant  => (1), we are only using the given array such idea is also called inplace algo
+// Space: Constant  => (1), we are only using the given array such idea is also called inplace algorithms.
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -13,8 +13,8 @@ vector<int> reverseArray(vector<int> a)
 {
 
     // setting two pointers
-    // start at the beginning element of the array
-    // start at the beginning element of the array
+    // "start" pointer at the beginning element of the array
+    // "end" pointer at the last element of the array
     int start = 0, end = a.size() - 1;
     int temp;
     while (start < end)
