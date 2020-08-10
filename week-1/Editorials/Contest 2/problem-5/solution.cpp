@@ -1,3 +1,4 @@
+/*
 Arnab is given a string, but being the evil Lord he is, he has his own whims and fantasies about the string he wants to keep with himself. If he can convert a string into a palindrome by rearranging the characters, he will keep that string, otherwise he will discard that string. You’ve to tell if Arnab will keep that string or not.
 
 Input Format
@@ -25,7 +26,7 @@ Sample Output 0
 No
 Yes
 Yes
-
+*/
 
 
 #include<bits/stdc++.h>
