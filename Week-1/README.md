@@ -1,4 +1,4 @@
-# WEEK 1 [Aug 03 - Aug 08]
+# WEEK 1 [Aug 03 - Aug 09]
 
 ## Topics
 
