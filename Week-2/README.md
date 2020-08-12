@@ -34,6 +34,7 @@
 
 ## Links to Practice Contests
 
-- Will be announced shortly
+### Wednesday
+* Practice contest #1: https://www.hackerrank.com/cpbuddyseries-week2contest1
 
 
