@@ -34,6 +34,8 @@
 
 ## Links to Practice Contests
 
-- **Contest1**: https://www.hackerrank.com/contests/cpbuddyseries-week2contest1/challenges
+### Wednesday
+* Practice contest #1: https://www.hackerrank.com/cpbuddyseries-week2contest1
+
 
 
