@@ -21,6 +21,9 @@
 #### Complete Playlist of Sorting Algorithms 
 - https://www.youtube.com/playlist?list=PLqM7alHXFySHrGIxeBOo4-mKO4H8j2knW
 
+#### Recursion
+- https://www.youtube.com/watch?v=kHi1DUhp9kM&list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY
+
 **Articles**
 
 #### Linear Search
@@ -32,10 +35,18 @@
 #### Sorting Algorithms
 - https://www.studytonight.com/data-structures/introduction-to-sorting
 
+#### Recursion
+- https://www.freecodecamp.org/news/how-recursion-works-explained-with-flowcharts-and-a-video-de61f40cb7f9/
+- https://www.geeksforgeeks.org/easy/recursion
+- https://www.geeksforgeeks.org/medium/recursion
+
 ## Links to Practice Contests
 
 ### Wednesday
 * Practice contest #1: https://www.hackerrank.com/cpbuddyseries-week2contest1
+
+### Thursday
+* Practice contest #2: https://www.hackerrank.com/cpbuddyseries-week2practicecontest2
 
 
 
