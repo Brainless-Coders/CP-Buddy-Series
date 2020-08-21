@@ -48,8 +48,5 @@
 ### Thursday
 * Practice contest #2: https://www.hackerrank.com/cpbuddyseries-week2practicecontest2
 
-### Sunday
-* Mega Contest #1: https://www.hackerrank.com/contests/cpbuddyseries-contest1/challenges
-
 
 
