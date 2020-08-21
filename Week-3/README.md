@@ -17,6 +17,8 @@
 - Articles
 1. https://www.geeksforgeeks.org/data-structures/linked-list/
 
+**Resources for Linked List in JAVA**
+
 - Videos:
 1. https://www.youtube.com/watch?v=SMIq13-FZSE
 2. https://www.youtube.com/watch?v=6KKIZL1wt8o
