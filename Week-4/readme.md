@@ -24,6 +24,6 @@
 
 ## Links to Practice Contests
 
-### [Wednesday](https://www.hackerrank.com/cpbuddyseries-week4contest1)
+### Wednesday - https://www.hackerrank.com/cpbuddyseries-week4contest1
 
 
