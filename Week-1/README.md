@@ -15,6 +15,8 @@
 1. https://www.youtube.com/watch?v=fZc3ijGM0aM
 2. https://www.youtube.com/watch?v=vgSKOMsjLbc
 3. https://www.youtube.com/watch?v=P7frcB_-g4w&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=25
+4. https://www.youtube.com/watch?v=1OTX-WXQHCQ&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi&index=3
+
 
 ###### Articles
 
