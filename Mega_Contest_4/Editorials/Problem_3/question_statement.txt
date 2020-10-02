@@ -1,0 +1,24 @@
+Weird Clock
+
+Problem Statement:
+So, let's talk about a famous anime named Jojo's Bizzare Adventure, where Jojo is our main protagonist and Dio is the main villain. They have consistent fights over all the seasons so one day a strange thing happened.
+Dio is a sharp-minded person so he gave Jojo a clock with a strange time. The time can be interpreted the same from both directions ( i.e palindromic time).
+Dio gave jojo a simple task to set the clock at a time which should be palindromic and should not match initial time that was set on that clock.
+Since Jojo is a lazy person so he wants to set his clock to the next moment where time is palindromic as well as closest to the initial time that Dio gave him.
+Help Jojo to set his clock.
+
+Input Format:
+The first and only line of the input starts with a string with the format "HH:MM" where "HH" is from "00" to "23" and "MM" is from "00" to "59". Both "HH" and "MM" have exactly two digits.
+
+Constraints:
+String length = 5.
+
+Output Format:
+Print the palindromic time of day that comes soonest after the time given in the input. If the input time is palindromic, output the soonest palindromic time after the input time.
+
+Sample Input:
+12:21
+
+Sample Output:
+13:31
+

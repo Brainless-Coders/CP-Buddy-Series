@@ -1,0 +1,22 @@
+Print the char
+
+Problem Statement:
+Your child is in 1st standard. You want to teach him counting. For that you have given a string now you have to print the characters according to their number of occurences. If the occurences of the characters are same print them alphabetically.
+
+Input Format:
+First and only line a string with lower case letters.
+
+Constraints:
+2 ≤ N ≤ 1000
+
+Output Format:
+Output a single line of letters ranked according to their frequency in descending order !
+
+Sample Input:
+aabaabba
+
+Sample Output:
+ab
+
+Explaination:
+Here letter 'a' occurs 5 times and letter 'b' occurs 3 times so answer will be 'ab'

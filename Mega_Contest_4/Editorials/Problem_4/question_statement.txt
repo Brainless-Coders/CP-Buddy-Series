@@ -1,0 +1,25 @@
+Aaditya Vs Aditya
+
+Problem Statement:
+Aaditya and Aditya are two best friends. They study together. Code together. They are planning to go to UAE together. Whatever, that's not the topic. Aditya cannot find his favourite food "Chole Bhature". He is suspecting, Aaditya took it all during late night coding. But he wants to be sure about it. Here is the amazing way he found out to detect that. As they are coders, they will do it in their own way. Each of them will write a number on a page. Then they will find the number of co-primes each written number has. If Aaditya's number has more or equal co-primes than that of Aditya's then Aaditya is not guilty. Otherwise he has to plan an excuse for his action. Aditya is very upset after losing his "Chole Bhature" so he cannot code right now. He wants your help to find out whether Aaditya is guilty or not.
+
+Input Format:
+First line will contain a single integer T . T test cases follow. Each line will contain two numbers A and B , A and B are Aditya and Aaditya's written numbers respectively.
+
+Constraints:
+T ≤ 100000 1 ≤ A,B ≤ 1000000  (A ≠ B)
+
+Output Format:
+For each input print one of the lines. "Aditya lost it" if the first case happens. Otherwise, print "Aaditya took it". Follow the output format exactly.
+
+Sample Input:
+3
+3 4
+130 114
+120 101
+
+Sample Output:
+Case 1: Aditya lost it
+Case 2: Aaditya took it
+Case 3: Aditya lost it
+

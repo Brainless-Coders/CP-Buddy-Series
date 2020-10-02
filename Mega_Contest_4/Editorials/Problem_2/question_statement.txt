@@ -1,0 +1,37 @@
+Gift Chocolates
+
+Problem Statement:
+Naaz is collecting chocolates. There are only N different collectible chocolates, Naaz has K of them. She will be celebrating her birthday soon, so all her M freinds decided to gift her chocolates. They all agreed to three terms:
+	Everyone must gift as many chocolates as others.
+	All chocolates given to Naaz must be different.
+	Not less than L chocolates from gifts altogether, must be new in Naaz's collection.
+But her friends don't know which chocolates have Naaz already got in her collection. They don't want to spend money so they want to buy minimum quantity of chocolates, that satisfy all terms, irrespective of the Naaz's collection. help them to find the minimum number of chocolates or define it's not possible to meet all the terms.
+
+Input Format:
+The only line of input contains 4 integers N, M, K, L (1 ≤ K ≤ N ≤ 10^18; 1 ≤ M, L ≤ 10^18) — quantity of different chocolates, number of Naaz's friends, size of Naaz's collection and quantity of chocolates, that must be new in Naaz's collection.
+
+Constraints:
+1 ≤ K ≤ N ≤ 10^18
+1 ≤ M,L ≤ 10^18
+
+Output Format:
+Print one number — minimal number of chocolates one friend can gift to satisfy all the conditions. If it is impossible to satisfy all three conditions print "-1" (without quotes).
+
+Sample Input 0:
+20 15 2 3
+
+Sample Output 0:
+1
+
+Explanation 0:
+In the first test, one chocolate from each friend is enough, as she will be presented with 15 different chocolates and 13 of them will definitely be new.
+
+Sample Input 1:
+10 11 2 4
+
+Sample Output 1:
+-1
+
+Explanation 1:
+In the second test, Naaz has 11 friends, but there are only 10 different chocolates. So all friends can't present her different chocolates.
+

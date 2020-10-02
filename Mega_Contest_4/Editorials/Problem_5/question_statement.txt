@@ -1,0 +1,25 @@
+Lost Books
+
+Problem Statement:
+Bobo was preparing for Gate on one day he went to the market and bought books and kept those in two bags, the first of these bags contains x (x ≥ 1) books, and the second — y (y ≥ 1)books. — very scattered boy, so the first bag of books (it contains x books) Bobo lost. Bobo remembers that the total amount of books (x + y) in the two bags, firstly, was not greater than n, and, secondly, was divisible by k. Help Bobo to determine how many books could be in the first bag. Print all such possible numbers in ascending order.
+
+Input Format:
+The first line of input contains three integers y, k, n.
+
+Constraints:
+1 ≤ y, k, n ≤ 10^9; n/k  ≤ 10^5
+
+Output Format:
+Print the list of whitespace-separated integers — all possible values of x in ascending order. You should print each possible value of x exactly once.
+
+Sample Input:
+10 1 10
+
+Sample Output:
+-1
+
+Sample Input:
+10 6 40
+
+Sample Output:
+2 8 14 20 26
