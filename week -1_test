@@ -1,0 +1,66 @@
+
+#unique no_solution
+
+def xorOfArray(a, n, d,sum,sum1): 
+    for i in a :
+        sum +=i
+    for j in a:
+        if j not in u:
+            u.append(j)
+    for k in u:
+        sum1+=k
+      
+    E = (d*sum1 - sum) // (d-1)
+    return E
+        
+
+
+
+
+t = int(input())
+for i in range(t):
+    nd = input().split()
+
+    n = int(nd[0])
+
+    d = int(nd[1])
+    u = []
+
+    a = list(map(int, input().rstrip().split()))
+    print(xorOfArray(a, n, d,0,0))
+    
+    --------------------------------------------------------------------
+    #left rotation
+    
+    import math
+import os
+import random
+import re
+import sys
+
+def leftRot(a,d):
+    for i in range(d):
+        d = a.pop(0)
+        a.append(d)
+    for i in a:
+        b.append(str(i))
+    return b
+
+if __name__ == '__main__':
+    nd = input().split()
+
+    n = int(nd[0])
+    b = []
+
+    d = int(nd[1])
+
+    a = list(map(int, input().rstrip().split()))
+    a = leftRot(a,d)
+    s = " "
+    s = s.join(a)
+    print(s)
+    
+    
+
+        
+
